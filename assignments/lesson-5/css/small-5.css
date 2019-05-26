@@ -3,7 +3,7 @@ body {
     background: url(https://cdn.glitch.com/8d45d4bc-df2d-4d28-8e80-7d4c57ec1986%2Fdresses1.jpg?1558227327082)
 }
 
-header{
+header {
     color:  #00bfff;
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -17,7 +17,11 @@ p {
 #phone {
     width: 65px;
 }
+h1 {
+background-color: #eeffee
+    padding: 2em;
 
+}
 
 
 
